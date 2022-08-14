@@ -1,0 +1,475 @@
+# Weareindy Onboarding
+
+## How should we say hello?
+
+- First name: Made
+- Last name: Wardana
+
+- That's me
+
+---
+
+Nice to meet you, Made! 👋
+
+## Were you recommended to Indy by someone?
+
+- Yes
+- No
+
+- Next
+
+## Got it. So how did you hear about us?
+
+- Podcast
+- Blog, news media, review sites
+- Social media
+- Web search (Google, Yahoo, Bing, etc.)
+- Other
+
+- Next
+
+## Which areas are you trying to improve your freelance business?
+
+This will help you to discover the features that are relevant to you.
+
+(Choose up to 3)
+
+- Getting paid
+- Getting approval on my work
+- Managing my client relationships
+- Scheduling my days
+- Doing all these things in one place
+- Intaking new leads
+- Managing my projects
+- Landing new projects
+- Keeping tabs on my to-do's
+- Tracking my time
+- Legal protection
+- Other
+
+## What would you like to try first? Here are our recommendations based on your interests.
+
+- Get my work files approved
+- Create an invoice
+- Create a contract
+
+- Skip this for now, I’d like to explore on my own
+
+## Roles you can play
+
+- 2D Animator
+- 3D Animator
+- 3D Product Animator
+- AR Designer
+- Account Support Manager
+- Actor
+- Ad Copywriter
+- Administrative Assistant
+- Advertising
+- Advertising Video Editor
+- Affiliate Marketer
+- Album Cover Designer
+- Animation
+- Animator
+- App & Website Preview Editor
+- Apple
+- Art Direction
+- Article to Video Editor
+- Articles & Blog Posts Writer
+- Artist
+- Artwork
+- Astrologer
+- Audio Ads Producer
+- Audio Engineer
+- Audiobook Producer
+- Augmented Reality Designer
+- Awareness Campaigns
+- Backend Developer
+- Beat Maker
+- Beta Reader
+- Blog
+- Bloggers
+- Blogging
+- Book & eBook Marketer
+- Book & eBook Writer
+- Book Designer
+- Book Editor
+- Book Trailers Editor
+- Books
+- Brand Book
+- Brand Copy
+- Brand Designer
+- Brand Identity
+- Brand Identity
+- Brand Voice & Tone Writer
+- Branding
+- Branding
+- Branding Consultant
+- Business
+- Business Consultant
+- Business Names & Slogans Writer
+- Business Plan Consultant
+- CSS
+- Captioner
+- Car Wrap Designer
+- Career Counselor
+- Cartoonist
+- Case Studies Writer
+- Character Animator
+- Chatbots Developer
+- Chiropractors
+- Collector
+- Comic Artist
+- Community Manager
+- Composer
+- Concert tours
+- Construction
+- Content Creation
+- Content Marketer
+- Cook
+- Cooking Instructor
+- Copywriting
+- Course Evaluation
+- Course Implementation
+- Course Maintenance
+- Cover Letter Writer
+- Crafts Instructor
+- Creative Writer
+- Crowdfunding Consultant
+- Cybersecurity & Data Protection Analyst
+- Cycling
+- DJ
+- Data Analyst
+- Data Engineer
+- Data Entry Specialist
+- Debugging
+- Design Systems
+- Desktop Apps Developer
+- Dialogue Editor
+- Digital
+- Digital Advertising Manager
+- Digital Content Strategist 
+- Digital Files Consultant
+- Digital Media Strategist for Learning
+- Digital Product Design
+- Digital marketing
+- Domain Researcher
+- Drawing
+- Drone Videographer
+- Drums Teacher
+- E-Commerce Developer
+- E-Commerce Manager
+- E-Commerce Marketer
+- Ecommerce
+- Ecommerce
+- Editor
+- Editor
+- Education
+- Email Copywriter
+- Email Marketer
+- Email Marketing
+- Email marketing
+- Engagement
+- English
+- Entrepreneurs
+- Experiential
+- Explainers Animator
+- Fashion
+- Fashion
+- Financial Consultant
+- Fine Artist
+- Fitness Instructor
+- Flyer Distributor
+- Food Photography
+- Foodservice
+- Frontend Developer
+- Furniture
+- Game Artist
+- Game Concept Designer
+- Game Developer
+- Game Trailers Editor
+- Gamer
+- Geneologist
+- Ghostwriter
+- Google Ads
+- Grant Writer
+- Graphic Design
+- Graphic Designer
+- Graphic Designing
+- Guitar Teacher
+- HR Consultant
+- HTML
+- HTML, CSS, JavaScript Development
+- Heath & Wellness
+- Horse Agistor
+- Hospitality
+- Hotel Renovation
+- IT
+- IT
+- Illustrations
+- Illustrator
+- Immigration document preparation and organization for exchange students, au pairs, and other foreign nationals
+- Influencer Marketer
+- Influencer Marketing
+- Infographic Designer
+- Instructional Systems Designer
+- Intros & Outros Animator
+- Jingles & Intros Sound Designer
+- Keywords analysis
+- Lead Generation Consultant
+- Learning Development
+- Learning Experience Design
+- Learning Experience Designer
+- Learning Programs Design
+- Legal Consultant
+- Legal Writer
+- Life Coach
+- Link Building
+- LinkedIn Profile Writer
+- Live Action Explainers Editor
+- Local Photographer
+- Local SEO Consultant
+- Logo Animator
+- Logo Designer
+- Logos
+- Logos & Identity
+- Manuals
+- Market Researcher
+- Marketing Strategist
+- Marketing Strategy
+- Merchandise
+- Microsoft Office Suite
+- Mixer
+- Mobile Apps Developer
+- Mobile Designer
+- Mobile Marketer & Advertiser
+- Motion Graphics Designer
+- Multimedia for Learning
+- Music
+- Music Instructor
+- Music Promoter
+- Music Teacher
+- Music Transcription Editor
+- Music Video Editor
+- Music industry
+- Musician
+- Nutritionist
+- Online Coding Instructor
+- Online Tutor
+- Outdoor Adventure
+- PR
+- Packaging Designer
+- Pattern Designer
+- Personal Stylist
+- Photo Editor
+- Photo Retoucher
+- Photoshop Artist
+- Photoshop Editor
+- Piano Teacher
+- Plays
+- Podcast Cover Artist
+- Podcast Editor
+- Podcast Marketer
+- Podcast Writer
+- Portrait Artist
+- Portraits
+- Presentation Designer
+- Presenter
+- Press Releases Writer
+- Print
+- Print Designer
+- Producer
+- Product Descriptions Writer
+- Product Photographer
+- Product Photography
+- Project Manager
+- Proofreader
+- Psychic
+- Public Relations Manager
+- Publicist
+- Publishing
+- QA Engineer
+- Quality Assurance Engineer
+- Real Estate
+- Real Estate 3D Floor Planner
+- Real Estate Articles & Blog Posts Writer
+- Real Estate Brochure Designer
+- Real Estate Business Card Designer
+- Real Estate Email Marketer
+- Real Estate Graphic Designer
+- Real Estate Lead Generation Consultant
+- Real Estate Logo Designer
+- Real Estate Logo Maker
+- Real Estate Mobile Designer
+- Real Estate Photo Editor
+- Real Estate Photographer
+- Real Estate Photoshop Editor
+- Real Estate Promos Editor
+- Real Estate Promoter
+- Real Estate Signage Designer
+- Real Estate Social Media Designer
+- Real Estate Virtual Stager
+- Real Estate Web Designer
+- Real Estate Web Developer
+- Recording Engineer
+- Researcher
+- Resume Designer
+- Resume Writer
+- Running
+- Russian
+- SEM Consultant
+- SEO
+- SEO & CMS Set Up
+- SEO Consultant
+- SEO Writing Specialist
+- Sales Copywriter
+- Screencasting Video Editor
+- Scriptwriter
+- Singer
+- Slideshow Video Editor
+- Social Media
+- Social Media Advertising Manager
+- Social Media Copywriter
+- Social Media Designer
+- Social Media Management
+- Social Media Marketer
+- Social Media Marketing
+- Social media
+- Software Development
+- Software Engineer
+- Songwriter
+- Sound Designer
+- Speechwriter
+- Spokesperson Video Editor
+- Storyboarder
+- Strategy
+- Strategy & Positioning
+- Streamers Content Editor
+- Streamers Web Developer
+- Style Guides
+- Subtitler
+- Supply Chain Manager
+- Support Worker
+- Surveys Consultant
+- Tattoo Designer
+- Tech SEO
+- Technical Support
+- Technical Writer
+- Technical Writing
+- Text Message Marketer
+- Transcripts Writer
+- Translator
+- Traveler
+- Tutor
+- UI Design
+- UX
+- UX Design
+- UX Writer
+- Unboxing Video Editor
+- User Research
+- User Tester
+- VFX Artist
+- Vector Artist
+- Video Design
+- Video Editor
+- Video Editor
+- Video Marketer
+- Virtual Assistant
+- Visual Design
+- Visual Effects Artist
+- Vocal Tuning Artist
+- Vocalist
+- Voice Over Artist
+- Web Analytics Consultant
+- Web Animator
+- Web Banner Designer
+- Web Designer
+- Web Developer
+- Web Hosting
+- Web Traffic Analyst
+- Web Traffic Consultant
+- Website Content Writer
+- Website Design
+- Website Developer
+- Websites
+- White Paper Writer
+- White Papers
+- Wordpress Developer
+- Wordpress Website Consultant
+- Writer
+- autommotive
+- eCommerce site
+- eLearning Content Developer
+- eLearning Video Producer
+- iOS
+- ipad
+- machine parts
+- non-profit
+- publications
+- streamer content editor
+
+## My role is...
+
+- 3D Artist
+- Advisor
+- Affiliate Marketer
+- Android App Designer
+- Architect
+- Artist
+- Blogger
+- Brand Ambassador
+- Business Coach
+- Cinematographer
+- Commercial Photographer
+- Consultant
+- Content Creator
+- Copywriter
+- Data Analyst
+- Designer
+- Developer
+- Digital Marketer
+- DJ
+- Editor
+- Email Marketer
+- Event Planner
+- Fashion Designer
+- Game Developer
+- Ghostwriter
+- Graphic Designer
+- Illustrator
+- Influencer
+- Interior Designer
+- Interpreter
+- iOS App Designer
+- IT Specialist
+- Life Coach
+- Market Researcher
+- Marketing Consultant
+- Maternity Photographer
+- Mobile Designer
+- Motion Graphics Designer
+- Party Decorator
+- Photographer
+- PPC Specialist
+- PR Specialist
+- Product Designer
+- Programmer
+- Project Manager
+- SEO Specialist
+- Social Media Manager
+- Social Media Moderator
+- Software Developer
+- Technical Writer
+- Translator
+- UX Specialist
+- Video Editor
+- Video Producer
+- Videographer
+- Virtual Assistant
+- Website Designer
+- Website Developer
+- Wedding Photographer
+- Wedding Planner
+- Wedding Videographer
+- Wordpress Developer
+- Writer
