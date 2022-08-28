@@ -1,0 +1,182 @@
+# DoYouBuzz Onboarding
+
+## What is your current goal?
+
+This information will help us walk you through DoYouBuzz.
+
+- Select an item from the list
+- I write my first resume to find a job (or an internship)
+- My current job doesn't suit me anymore and I want a new one
+- I am just looking for a (new) job
+- I am looking for clients or missions
+- I am concerned about my brand image
+- None of these positions suit me
+
+## Your resume title (current position or wanted position
+
+This information will be displayed on your resume (you can edit it anytime).
+
+## Which format do you prefer?
+
+- I need my resume in a PDF A4 format (75% of our users make that choice!) - To reply to offers, send unsolicited applications.
+- I need an online resume « website » style - To build your online reputation, interact proactively with recruiters on Twitter, etc.
+
+## Your company's industry
+
+- Industries
+  - Aeronautics and Aerospace
+  - Automotive
+  - Railway / Naval
+  - Defense
+  - Electrical / electronic equipment and component
+  - Machinery and equipment
+  - Chemistry, cosmetics
+  - Oil and energy
+  - Environment and renewable energy
+  - Textile, clothing
+  - Luxury, fashion
+  - Printing, reproduction
+  - Wood and paper industry
+  - Mines and metals
+  - Plastics processing
+  - Glass, ceramic and cement
+  - Nanotechnologies
+  - Biotechnologies
+  - Semiconductors
+  - Robotics, automation
+  - Others
+- Agribusiness
+  - Agriculture
+  - Agribusiness
+  - Animal husbandry
+  - Fishing
+  - Dairy sector
+  - Wine and spirits
+  - Others
+- Construction and civil engineering
+  - Architecture and urban planning
+  - Civil engineering, development
+  - Housing construction
+  - Construction materials
+  - Others
+- Bank / Insurance / Finance
+  - Insurances
+  - Banks
+  - Investment banks
+  - Venture capital and LBO funds
+  - Accounting
+  - Investment Management
+  - Financial markets
+  - Financial services
+  - Others
+- Trade / Retail
+  - Retail business
+  - Wholesale
+  - Supermarkets
+  - International business
+  - Import / Export
+  - Real estate
+  - Others
+- Communication / Media
+  - Marketing and advertising
+  - Communication and public relations
+  - Organization of events
+  - Media production
+  - Publishing
+  - Printed press
+  - Online media
+  - Radio and TV media
+  - Others
+- Consulting / Audit / Search
+  - Consulting
+  - Audit
+  - Study
+  - Research institutes
+  - Others
+- Education / Training
+  - Elementary and secondary education
+  - Higher education
+  - Distance training
+  - Vocational training
+  - Others
+- IT / Telecom
+  - Internet / Mobile
+  - Softwares
+  - Systems and networks
+  - Networks and information security
+  - Telecommunications
+  - Video games
+  - Others
+- Legal / HR
+  - Human Resources
+  - Recruitment
+  - Lawyers
+  - Legal services
+  - Legal institutions
+  - Legal institutions
+  - Others
+- Logistics / Transport
+  - Logistics and supply chain
+  - Packaging and containers
+  - Warehousing and storage
+  - Air transport
+  - Road and rail transport
+  - Shipping
+  - Shipping and freight
+  - Others
+- Leisure / Tourism
+  - Catering
+  - Hospitality
+  - Travel and tourism
+  - Sports
+  - Entertainment, leisure
+  - Fitness and well-being
+  - Gambling and casinos
+  - Others
+- Public sector / Administration
+  - Public administration
+  - Public and local authorities
+  - Foreign affairs
+  - Public facilities
+  - Public policies
+  - Politics
+  - Others
+- Healthcare
+  - Hospitals and health centers
+  - Medical professions
+  - Pharmaceutical industry
+  - Veterinary
+  - Medical equipments
+  - Alternative medicine
+  - Others
+- Security
+  - Military
+  - Security
+  - Law enforcement
+  - Civil security
+  - Others
+- Voluntary sector / Humanitarian
+  - Humanitarian
+  - Management of associations and foundations
+  - Philanthropy
+  - Associations and social/labor organizations
+  - Religious institutions
+  - Others
+- Arts / Culture
+  - Arts
+  - Performing Arts
+  - Libraries
+  - Museums and cultural institutions
+  - Film industry
+  - Animation films
+  - Music
+  - Photography
+  - Others
+- Other services
+  - Translation and localization
+  - Consumer services
+  - Information services
+  - Environmental services
+  - Personal services
+  - Design
+  - Others
