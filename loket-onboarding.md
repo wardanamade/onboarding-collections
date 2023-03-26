@@ -10,22 +10,23 @@ Isi tanggal lahir dan pilih label event yang ingin kamu lihat lebih sering darip
 
 Masukkan tanggal lahirmu
 
-### Topik Event
+- Topik Event
 
 Pilih semua topik
 
 - Festival, Fair, Bazaar
-Konser
-Pertandingan
-Exhibition, Expo, Pameran
-Konferensi
-Workshop
-Pertunjukan
-Atraksi, Theme Park
-Akomodasi
-Seminar, Talk Show
-Social Gathering
-Training, Sertifikasi, Ujian
-Pensi, Event Sekolah, Kampus
-Trip, Tur
-Turnamen, Kompetisi
+- Konser
+- Pertandingan
+- Exhibition, Expo, Pameran
+- Konferensi
+- Workshop
+- Pertunjukan
+- Atraksi, Theme Park
+- Akomodasi
+- Seminar, Talk Show
+- Social Gathering
+- Training, Sertifikasi, Ujian
+- Pensi, Event Sekolah, Kampus
+- Trip, Tur
+- Turnamen, Kompetisi
+- Lainnya
