@@ -1,38 +1,66 @@
 # RiverSide Onboarding
 
-## Welcome Made Wardana!
+## What best describes you?
 
-Let’s get Riverside set up just for you
+Help us personalize your experience.
 
-### What are you using Riverside for?
+- Full time creator
+- Part time creator
+- Personal project
+- Freelancer
+- Agency
+- Business owner
+- Large company
+- Student
+- Small to mid-size company
+- Type other...
 
-- For an agency
-- Not sure yet
-- For a large business
-- Freelance Producer
-- For a small business
-- Personal
-- Other
+## What do you want to create with Riverside?
 
-### How will you use Riverside?
+Choose all the things you’ll make.
 
-Select all that apply.
-
-- Virtual Conferences
-- Video Interviews
-- Live Streams
-- Customer Testimonials
-- Podcasts
-- Internal Communication
+- Video interviews
+- Talking head video
+- Panel discussions
+- Keynote speakers
 - Webinars
-- Voice Overs
-- Keynote Speakers
-- Panel Discussions
-- Video Marketing
-- Screen Recording
+- Executive interviews
+- Video marketing
+- Internal communication
+- Live streaming
+- Screen recording
+- Virtual events
+- Podcasts
+- Type other...
 
-### Get the most out of our platform
+## How did you hear about us?
 
-Watch this tutorial video to learn how to best use Riverside.
+Help us reach more folks like you.
 
-- Continue
+- Word of mouth
+- LinkedIn
+- Blog post
+- Guest on Riverside
+- Reddit
+- Instagram
+- Twitter
+- Event
+- Google
+- TikTok
+- Returning customer
+- Email
+- Youtube
+- Facebook
+- Type other...
+
+## How did you record before?
+
+Help us build a better product.
+
+- I recorded in-person
+- This is my first guest recording
+- Asked my guest to record locally and send files to me
+- Video conferencing software (e.g. Zoom, Teams)
+- Online remote recording platform
+- Live streaming platform
+- Type other...
